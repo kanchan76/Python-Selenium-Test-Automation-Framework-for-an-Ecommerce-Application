@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbf384a7-b447-43ee-99d2-e4f0785b0c7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f2CMqMpbNvWRKbmKIbjvpjvZP0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rajdeep.m\PycharmProjects\Avactis\Data Driven Testing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rajdeep.m\PycharmProjects\Avactis\Data Driven Testing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_SignUp.py">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_SignUp.TestSignUp" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_SignUp.TestSignUp&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_SignUp.TestSignUp.test_signup" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_SignUp.TestSignUp.test_signup&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_SignUp.testSignUp" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_SignUp.testSignUp&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_SignUp.test_SignUp" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_SignUp.test_SignUp&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in bin" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_SignUp.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test_Scripts/test_SignUp.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in bin" />
+      <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp" />
+      <item itemvalue="Python tests.pytest for test_SignUp.testSignUp" />
+      <item itemvalue="Python tests.pytest for test_SignUp.test_SignUp" />
+      <item itemvalue="Python tests.pytest in test_SignUp.py" />
+      <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp.test_signup" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_SignUp.py" />
+        <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp" />
+        <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp.test_signup" />
+        <item itemvalue="Python tests.pytest for test_SignUp.testSignUp" />
+        <item itemvalue="Python tests.pytest for test_SignUp.test_SignUp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbf384a7-b447-43ee-99d2-e4f0785b0c7b" name="Default Changelist" comment="" />
+      <created>1595406755336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595406755336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="83" width="1092" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596350689016">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="466" y="83" width="1092" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1596350689016" />
+    <state x="530" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595674810079">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1595674810079" />
+    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1596197465398">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1596197465398" />
+    <state width="1578" height="215" key="GridCell.Tab.0.bottom" timestamp="1596623333264">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596623333264" />
+    <state width="1578" height="215" key="GridCell.Tab.0.center" timestamp="1596623333264">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596623333264" />
+    <state width="1578" height="215" key="GridCell.Tab.0.left" timestamp="1596623333264">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596623333264" />
+    <state width="1578" height="215" key="GridCell.Tab.0.right" timestamp="1596623333264">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596623333264" />
+    <state width="1578" height="270" key="GridCell.Tab.1.bottom" timestamp="1596298305256">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596298305256" />
+    <state width="1578" height="270" key="GridCell.Tab.1.center" timestamp="1596298305256">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1596298305256" />
+    <state width="1578" height="270" key="GridCell.Tab.1.left" timestamp="1596298305256">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1596298305256" />
+    <state width="1578" height="270" key="GridCell.Tab.1.right" timestamp="1596298305256">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1596298305256" />
+    <state x="301" y="60" key="SettingsEditor" timestamp="1596634398185">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1596634398185" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1596620051436">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1596620051436" />
+  </component>
+</project>
