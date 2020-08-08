@@ -1,7 +1,8 @@
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import logging
 
 
 class BasePage():
@@ -17,7 +18,10 @@ class BasePage():
         WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located(by_locator))
 
     def is_visible(self, by_locator):
-        element = WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located(by_locator))
+        try:
+            element = WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located(by_locator))
+        except TimeoutException:
+            element = False
         return bool(element)
 
     def hover_to(self, by_locator):

@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbf384a7-b447-43ee-99d2-e4f0785b0c7b" name="Default Changelist" comment="" />
+    <list default="true" id="fbf384a7-b447-43ee-99d2-e4f0785b0c7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/_allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/_hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/lifecycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/model2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/reporter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/listener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDrivenTesting/ConfigData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenTesting/ConfigData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDrivenTesting/WritingDataCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenTesting/WritingDataCSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locators/Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Locators/Locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/BasePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/BasePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/SignUppage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/SignUppage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Scripts/test_SignUp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Scripts/test_SignUp.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +53,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f2CMqMpbNvWRKbmKIbjvpjvZP0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +66,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -33,7 +76,49 @@
       <recent name="C:\Users\rajdeep.m\PycharmProjects\Avactis\Data Driven Testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_SignUp.py">
+  <component name="RunManager" selected="Python tests.pytest for test_SignUp.TestSignUp">
+    <configuration name="BasePage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PageObjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageObjects/BasePage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SignUppage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PageObjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageObjects/SignUppage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="Avactis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,36 +164,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_SignUp.testSignUp" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Avactis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_SignUp.testSignUp&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_SignUp.test_SignUp" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Avactis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_SignUp.test_SignUp&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in bin" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="Avactis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,20 +195,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.BasePage" />
+      <item itemvalue="Python.SignUppage" />
       <item itemvalue="Python tests.pytest in bin" />
-      <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp" />
-      <item itemvalue="Python tests.pytest for test_SignUp.testSignUp" />
-      <item itemvalue="Python tests.pytest for test_SignUp.test_SignUp" />
       <item itemvalue="Python tests.pytest in test_SignUp.py" />
       <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp.test_signup" />
+      <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_SignUp.py" />
         <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp" />
+        <item itemvalue="Python tests.pytest in test_SignUp.py" />
         <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp.test_signup" />
-        <item itemvalue="Python tests.pytest for test_SignUp.testSignUp" />
-        <item itemvalue="Python tests.pytest for test_SignUp.test_SignUp" />
+        <item itemvalue="Python.SignUppage" />
+        <item itemvalue="Python.BasePage" />
       </list>
     </recent_temporary>
   </component>
@@ -175,30 +230,34 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="466" y="83" width="1092" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1596350689016" />
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596819665206">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1596819665206" />
     <state x="530" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595674810079">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1595674810079" />
-    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1596197465398">
+    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1596726140987">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1596197465398" />
-    <state width="1578" height="215" key="GridCell.Tab.0.bottom" timestamp="1596623333264">
+    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1596726140987" />
+    <state width="1578" height="215" key="GridCell.Tab.0.bottom" timestamp="1596821089142">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596623333264" />
-    <state width="1578" height="215" key="GridCell.Tab.0.center" timestamp="1596623333264">
+    <state width="1578" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596821089142" />
+    <state width="1578" height="215" key="GridCell.Tab.0.center" timestamp="1596821089141">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596623333264" />
-    <state width="1578" height="215" key="GridCell.Tab.0.left" timestamp="1596623333264">
+    <state width="1578" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596821089141" />
+    <state width="1578" height="215" key="GridCell.Tab.0.left" timestamp="1596821089141">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596623333264" />
-    <state width="1578" height="215" key="GridCell.Tab.0.right" timestamp="1596623333264">
+    <state width="1578" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596821089141" />
+    <state width="1578" height="215" key="GridCell.Tab.0.right" timestamp="1596821089141">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596623333264" />
+    <state width="1578" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596821089141" />
     <state width="1578" height="270" key="GridCell.Tab.1.bottom" timestamp="1596298305256">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -215,10 +274,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1578" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1596298305256" />
-    <state x="301" y="60" key="SettingsEditor" timestamp="1596634398185">
+    <state x="301" y="60" key="SettingsEditor" timestamp="1596726250527">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1596634398185" />
+    <state x="301" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1596726250527" />
     <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1596620051436">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

@@ -1,11 +1,11 @@
 import csv
 
-fields = ['emailid','password']
+fields = ['credential','emailid','password']
 
-rows = [['kanchansahu7696@gmail.com','avactis'],
-       ['kanchansahu766@gmail.com','avactis'],
-       ['kanchansahu7696@gmail.com','avacis'],
-       ]
+rows = [[True,'kanchansahu7696@gmail.com','avactis'],
+        [False,'kanchansahu766@gmail.com','avactis'],
+        [False,'kanchansahu7696@gmail.com','avacis'],
+        ]
 
 filename = 'ConfigData.csv'
 

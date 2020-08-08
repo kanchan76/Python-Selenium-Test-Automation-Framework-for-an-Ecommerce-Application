@@ -9,8 +9,8 @@ class SignUpPagelocators():
     password = (By.ID,"account_sign_in_form_passwd_id")
     signuputton =(By.XPATH,"//input[@class='btn btn-primary input_submit']")
     keepmesignup = (By.NAME,"remember_me")
-    signinduser =(By.XPATH,"//span[@class='header_wel']")
-    myaccounttitle = (By.XPATH,"//h1[contains(text(),'My Account')]")
+    myaccounttitle = (By.XPATH,"//h3[contains(text(),'Manage Account and View Orders')]")
+    myaccounttitletext ="Manage Account and View Orders"
 
 
 
