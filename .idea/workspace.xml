@@ -2,44 +2,196 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbf384a7-b447-43ee-99d2-e4f0785b0c7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/_allure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/_core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/_hooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/lifecycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/mapping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/model2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/reporter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_commons/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest-2.8.17.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/listener.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/plugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_pytest/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/allure_python_commons-2.8.17.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/ProductData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/ReadExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/RegistrationData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/Purchase_as_guest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/Purchase_as_registered_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/RegistrationPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/Webtables_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/01cc857d-db60-4ee9-be00-c5c503484f54-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/04832d02-b7e0-4c08-94c9-b5cab17759a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/05363d83-ed32-4a37-918c-e75fa376c5eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/0648b76d-274c-4645-9f86-bcc3bc09d93f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/0783f6b5-0f9b-4fc3-8851-4b5caa3d8094-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/089e5cf8-f6f4-4636-b470-7601297f06f8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/0d1bcfa3-df86-40ed-8873-2bd4f3864314-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/0e6e6778-a80e-4097-9374-1b3fdd9d14c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/0e73b2be-1c3a-4eea-84ff-452d7831c312-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/0f51e500-eae6-40a7-a65c-3038a13093a9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/13a6f102-8463-45f5-8197-40bed4dff318-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/13ea416c-ba46-440c-b9c4-da0165df6453-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/1693d7fb-9882-4315-8deb-1790e52a0e5c-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/17671258-b3b4-464e-9abe-24a507176f03-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/1944b926-e8a9-40c6-956e-51bc726070aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/199f22ac-7406-4b90-9d73-27f37195df3d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/1b24455d-1846-491f-a819-c9fa0c916979-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/1b8f1f5f-62d0-4118-b343-f1b4878a6748-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/1c654dff-60ac-49ad-a484-761b8bdfc223-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/1c841159-a78b-438e-aeca-5b8b57a4aa93-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/1d48eb5c-7254-4e15-ab53-82ce10cefd74-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/1ef3340f-5f30-47b4-8839-c68a25e27801-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/245d2525-2090-45c9-a0ff-af8e9617e7ae-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/272c754a-8478-47fc-ad31-6d0d7df11a85-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/294f2c4d-b2f3-4791-aa0e-9554185c3080-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/2b8d650a-80cb-4331-8192-763552e3c277-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/2d8e7634-7046-4e93-a53b-29489cf33647-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/2fdaa49b-1c90-47d0-a1d1-6ed6cff692af-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/33764869-77a2-4214-8bf6-8854fc07d2cb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/33f29dd2-01eb-41a7-bcc5-385f56a56b36-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/340a2157-2b26-44b2-97fd-9e825223ae76-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/342014d5-6b3a-46a5-a328-add9f69108a7-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/34ca5868-debd-4b46-b25b-719884299a31-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/35913776-87f3-4ee7-8820-a8d44e8bc392-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/363c4eb5-dc13-4c9d-9f7f-c7ed88a338db-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/370afe96-0a64-4b84-9922-a232e517ae51-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/379b5a73-d2a1-4793-9bda-99ff65cc0bad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/3895d749-181e-40c1-893b-4d67123f259c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/39c5cda3-e807-46c9-96b8-8f6f241dfbb4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/3adf0c26-08ef-4b7a-85c7-d9522ddd53ff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/3dbc479a-5cbf-45f1-821d-399cae843e6c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/3f96c180-76ae-4e6c-9c83-54709ac690b5-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/42c6304e-a3ab-40cc-b4a4-b48cf3148c17-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/432bcd40-800b-4db7-931b-cfaec07f0c87-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/433f9d9c-7a71-46cf-bcc1-28205339cabe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/434753b3-1122-4082-9753-c6690e35a6c4-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/46f14ad2-c50c-472a-b3b8-bffceefb4231-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/4ed6b812-47de-4845-ac00-bf39d5cf5e74-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/4f3be579-92cf-403d-8f4b-b293ba4f0aa8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/501b85e0-c712-423c-8055-6bc534ad95de-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/50a1fb69-4f40-420a-abde-29d9263019c6-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/510ee963-36dc-4adc-8ba9-62895fb880ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/561e784a-41c3-4417-b772-4705fc9bd932-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/576c1365-bfcd-4ee7-84b8-c404b9464922-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/5921bc96-c666-4e4a-ae40-1ad72395bc1e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/5a223cd0-4ac8-401f-ac31-dfbe9aa2c80d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/5be21c75-8367-4c90-b73e-59dea2ebf94e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/5c82d8a5-329b-4e17-bfc7-7df33be7ad2b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/61fc53ee-35c0-4994-b184-bc3662fa8809-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/628b5a7b-89e9-43ff-8116-96253c039cc0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/65f56313-a9a0-4fd7-92e8-de87a61367b3-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/673de988-5342-46ce-8c5b-36207babb5e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/698f3af2-42f6-4887-bf23-f3c805d5f576-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/69cb9d92-9cbb-4641-93c3-278620704904-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/6d3bf30a-22c1-4dd8-ac12-71b7cd1e76d8-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/6e346446-4621-4859-805b-b4b9366fab4c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/6e4ac770-d204-4769-88da-6fb836989917-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/73699ea2-20b5-438e-b6b4-4ae0ce20ae1d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/75009412-c161-43ab-8ea4-7872697d8bf6-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/764e81ce-99a0-4f2d-a7da-d7a4fb093570-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/7a202de6-1f8a-4248-826e-b6918d699715-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/7afad9f0-4a20-4434-95cf-71223a852615-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/7b6465a8-5051-42fb-8df8-ce48d7f86e37-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/7e8a6888-3d17-4a52-8d7a-cbd55e47bf9b-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/7eb7000b-c99a-46b5-8ba6-e3621e53cd9b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/7ee53dea-9f9c-4b59-aabf-f115751b5a12-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/812455ea-e128-4446-aad1-07efc803e62a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/81537f28-87ed-48cf-adfa-5b89943845e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/84d89a20-8c35-41e0-b2e5-faca34066415-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/86548bd9-9155-4c20-a341-1917afc34b27-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/885a7118-997c-45ca-b3d5-e3842128e5ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/8bba944a-a829-4b91-aa69-2ef01debb058-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/8c76e2f6-9546-405b-9e3e-e2486d610b95-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/8ceab9f4-65ca-4e96-86a0-bcc22b58b372-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/8d476857-e948-4ccc-a108-892648c92d16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/8d85d73f-9676-4e6f-82c6-0a97a615a528-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/8d999072-b259-4917-8000-d9c1de23b092-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/9406eabe-f16e-4df8-99b9-c05ef1c99c74-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/95247e92-e83a-437f-926e-05019b82c278-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/96d709b9-7d1e-4600-beec-8ed0c7962296-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/985b4e53-ca03-483b-8f3d-c0a9efbc6145-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/9a6b71c4-609f-448c-80ed-7c143a313b38-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/9e181ece-ca8c-4ae3-a53d-e38da9ebc2d3-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/9e7c8b41-8f94-4a0a-80cb-fded03b21464-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/9f532532-2238-4219-8609-439217801e36-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/a1062561-987e-431d-8e20-b08077966e5a-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/a1ea82f9-5be1-44e7-bfc3-0317080a2b8e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/a255ee29-3e0f-4087-8f10-afb654938632-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/a5f103a2-5fc9-4b32-a528-5abf45f00a7a-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/a66bde22-f3f0-4801-ad90-b55c0981f5bc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/a856b039-d013-4232-8ecb-bcbb87cf2456-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/add01e38-44bc-4555-9bd5-aaf1ff71ceb6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/ae058c37-448c-44a6-9cc3-f345515a4da0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/ae24d034-919a-44e3-a011-9f4345d59823-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/b1912757-88fb-4887-aa7a-ff36714c739f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/b193411f-4c24-40d2-aba1-0104f46e8aad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/b2f8b6b7-db35-4715-b05d-38df9bc769c6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/b41e7b04-311d-474f-989d-f03555901a2e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/b748bb51-7a70-4f5a-a560-8863cf3cb060-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/b80f7407-dbdc-4d94-8b38-468eb6fe95fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/b905365d-985c-40e5-ba5d-ff44adfa819b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/b9459827-b969-4e44-89e0-44774c98f562-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/ba7471cc-bc24-4259-b969-83f5d807d9f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/bb0c9952-993a-4c09-92f4-bfa6144e93c5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/bb0dd4f5-8ca4-4a15-908d-02d7ead1c584-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/c2da90cd-caab-4f17-9353-1871f82af12b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/c70d704b-5b68-4c34-8bbb-efbbccb8c76c-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/c93a8c05-8886-4db1-8fe1-12527dfdb12a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/c93f5c20-b463-4431-b1f6-c5bf7033c590-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/caa4d04e-e9e3-46d5-96b5-da9ad4e6ea65-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/cadf709e-740d-47fa-bb2f-aa88161129f3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/cb6b81f0-7758-4197-a3d2-85a1cfd28769-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/cba03620-856d-4cf9-8787-e5705cf8efac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/cbb1f7d2-5d2c-4643-b7d5-7f74a9ad5a73-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/ccc635e3-c20c-4fec-8334-5c2270e44a83-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/ce995aa6-35b2-4678-8de8-d68f012b3523-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/cf1ba63f-172c-439b-b52e-08ff52b4c9d2-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/d08cb932-6ddd-4f17-bf45-39eece556ca2-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/d57d92e4-9f26-449f-812a-48d15fbd59f4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/d6d9815d-54f1-495f-adb5-0c49d6238162-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/d7cd87b9-9406-4b87-82ff-8f6ceefbe3f7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/d7fccd43-0cb7-4c4b-aacc-c87293bdff62-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/db7d09d5-cfd3-4bd5-9850-44ec037d9b16-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/dbb6aa83-47cf-47b5-ba52-1346570834a8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/dbcdd004-3033-4b22-a407-dbb299ea3fd0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/e1920ae3-c347-4cac-897b-29d99f20d0e6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/e23b8a57-2999-480b-9b21-d293a8bde658-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/e29b4d96-842e-4bd0-9e4b-39a448ed76fb-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/e458349a-7636-4ac2-88fe-731cac04b148-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/e591a6b0-1b45-4eab-8e56-ae4c38d96c67-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/e597a260-55ab-485a-a977-0438d287b70b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/e7117525-d699-4d17-9a0b-a8fb533ef6cd-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/e77f526e-7142-462c-995a-c46a7b6ca9fb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/eeed5e3c-94df-4798-8ed8-265302f88eb3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/f26aab4f-b846-4eff-8afb-a5e9cbb0b684-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/f30a580a-652c-461a-9b0f-4125baf5d54a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/f4105f31-f863-4840-af21-03344cada8d3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/f44f91d5-80ca-4f6f-a3be-c688accfc7f6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/f4e1d1b1-63d2-4cb1-b92e-280751316560-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/f85e4900-58f9-463a-a6ba-434e4a78f776-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/f9e0f679-03fc-40b6-8d70-febdcd9aacf8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/fbce3ef6-a9a8-461a-aeff-14f8d7156acb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/fbfe6f8d-9a41-4090-9fcf-876936dcbd9d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/fc383ded-69cd-4f09-911b-82eef6bb2cff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/fc7d7398-3e01-42ac-ae7b-c40e9f96c463-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/fc9999eb-158f-4a3a-b40b-35e969209b1e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/fcdba43c-1833-475f-bef5-59b026598ad5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report/feed1c71-e9c3-45d4-8a6e-f2b8dbfc7264-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Scripts/test_purchase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Scripts/test_purchase_registered_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Scripts/test_registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd-1.2.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd-1.2.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd-1.2.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd-1.2.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd-1.2.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd-1.2.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/biffh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/compdoc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/formula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/timemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/xldate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/xlrd/xlsx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/runxlrd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataDrivenTesting/ConfigData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenTesting/ConfigData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataDrivenTesting/WritingDataCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenTesting/WritingDataCSV.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Locators/Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Locators/Locators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PageObjects/BasePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/BasePage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObjects/SignUppage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/SignUppage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Scripts/test_SignUp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Scripts/test_SignUp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Scripts/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Scripts/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +217,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../duringclass" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -76,8 +228,8 @@
       <recent name="C:\Users\rajdeep.m\PycharmProjects\Avactis\Data Driven Testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_SignUp.TestSignUp">
-    <configuration name="BasePage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_purchase.py">
+    <configuration name="test_registration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Avactis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,32 +237,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PageObjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageObjects/BasePage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SignUppage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Avactis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PageObjects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageObjects/SignUppage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_Scripts/test_registration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +265,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_SignUp.TestSignUp" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_purchase.TestPurchase" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Avactis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +276,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_SignUp.TestSignUp&quot;" />
+      <option name="_new_target" value="&quot;test_purchase.TestPurchase&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_SignUp.TestSignUp.test_signup" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_purchase.TestPurchase.test_add_to_cart" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Avactis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +291,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_SignUp.TestSignUp.test_signup&quot;" />
+      <option name="_new_target" value="&quot;test_purchase.TestPurchase.test_add_to_cart&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -179,7 +310,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_SignUp.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_purchase.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Avactis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,25 +321,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test_Scripts/test_SignUp.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test_Scripts/test_purchase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_registration.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Avactis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\rajdeep.m\PycharmProjects\Avactis\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test_Scripts/test_registration.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BasePage" />
-      <item itemvalue="Python.SignUppage" />
+      <item itemvalue="Python.test_registration" />
       <item itemvalue="Python tests.pytest in bin" />
-      <item itemvalue="Python tests.pytest in test_SignUp.py" />
-      <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp.test_signup" />
-      <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp" />
+      <item itemvalue="Python tests.pytest in test_registration.py" />
+      <item itemvalue="Python tests.pytest for test_purchase.TestPurchase" />
+      <item itemvalue="Python tests.pytest in test_purchase.py" />
+      <item itemvalue="Python tests.pytest for test_purchase.TestPurchase.test_add_to_cart" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp" />
-        <item itemvalue="Python tests.pytest in test_SignUp.py" />
-        <item itemvalue="Python tests.pytest for test_SignUp.TestSignUp.test_signup" />
-        <item itemvalue="Python.SignUppage" />
-        <item itemvalue="Python.BasePage" />
+        <item itemvalue="Python tests.pytest in test_purchase.py" />
+        <item itemvalue="Python tests.pytest for test_purchase.TestPurchase" />
+        <item itemvalue="Python tests.pytest for test_purchase.TestPurchase.test_add_to_cart" />
+        <item itemvalue="Python tests.pytest in test_registration.py" />
+        <item itemvalue="Python.test_registration" />
       </list>
     </recent_temporary>
   </component>
@@ -223,9 +369,25 @@
       <option name="presentableId" value="Default" />
       <updated>1595406755336</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added reporting with allure.">
+      <created>1596866152097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596866152097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added reporting with allure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added reporting with allure." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="87" key="#Inspections" timestamp="1596886676971">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="87" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1596886676971" />
     <state x="466" y="83" width="1092" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596350689016">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -242,26 +404,26 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1596866146972" />
-    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1596726140987">
+    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1597475777027">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1596726140987" />
-    <state width="1578" height="215" key="GridCell.Tab.0.bottom" timestamp="1596821089142">
+    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1597475777027" />
+    <state width="1578" height="209" key="GridCell.Tab.0.bottom" timestamp="1597494179666">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596821089142" />
-    <state width="1578" height="215" key="GridCell.Tab.0.center" timestamp="1596821089141">
+    <state width="1578" height="209" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1597494179666" />
+    <state width="1578" height="209" key="GridCell.Tab.0.center" timestamp="1597494179666">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596821089141" />
-    <state width="1578" height="215" key="GridCell.Tab.0.left" timestamp="1596821089141">
+    <state width="1578" height="209" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1597494179666" />
+    <state width="1578" height="209" key="GridCell.Tab.0.left" timestamp="1597494179666">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596821089141" />
-    <state width="1578" height="215" key="GridCell.Tab.0.right" timestamp="1596821089141">
+    <state width="1578" height="209" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1597494179666" />
+    <state width="1578" height="209" key="GridCell.Tab.0.right" timestamp="1597494179666">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596821089141" />
+    <state width="1578" height="209" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1597494179666" />
     <state width="1578" height="270" key="GridCell.Tab.1.bottom" timestamp="1596298305256">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -278,10 +440,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1578" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1596298305256" />
-    <state x="301" y="60" key="SettingsEditor" timestamp="1596726250527">
+    <state x="301" y="60" key="SettingsEditor" timestamp="1597480148105">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1596726250527" />
+    <state x="301" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1597480148105" />
+    <state x="392" y="161" key="Vcs.Push.Dialog.v2" timestamp="1596866580064">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="161" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1596866580064" />
     <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1596620051436">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
